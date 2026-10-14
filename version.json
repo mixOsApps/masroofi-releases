@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.17.0",
-  "apkUrl": "",
-  "releaseNotes": "",
-  "forceUpdate": false
+    "versionCode":  3,
+    "versionName":  "1.17.1",
+    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.17.1/masroofi-1.17.1.apk",
+    "releaseNotes":  "The app now updates itself: it checks for a new version on start and in Settings, downloads it, makes a safety backup and opens the installer. Cards and text look the same on every screen.",
+    "forceUpdate":  false
 }
