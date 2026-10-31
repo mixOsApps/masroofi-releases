@@ -1,7 +1,7 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.17.1",
-    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.17.1/masroofi-1.17.1.apk",
-    "releaseNotes":  "The app now updates itself: it checks for a new version on start and in Settings, downloads it, makes a safety backup and opens the installer. Cards and text look the same on every screen.",
+    "versionCode":  6,
+    "versionName":  "1.20.0",
+    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.20.0/masroofi-1.20.0.apk",
+    "releaseNotes":  "Investments can ignore unpaid months before a chosen month, and the date of a charge or contribution can be changed. A payment now counts in an automatic fund value only after its units are bought.",
     "forceUpdate":  false
 }
