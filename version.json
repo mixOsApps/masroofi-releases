@@ -1,7 +1,7 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.20.0",
-    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.20.0/masroofi-1.20.0.apk",
-    "releaseNotes":  "Investments can ignore unpaid months before a chosen month, and the date of a charge or contribution can be changed. A payment now counts in an automatic fund value only after its units are bought.",
+    "versionCode":  7,
+    "versionName":  "1.20.1",
+    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.20.1/masroofi-1.20.1.apk",
+    "releaseNotes":  "New app icon: a banknote with a V down to the coin and a bill and coins dropping in, plus a one-colour version for themed icons.",
     "forceUpdate":  false
 }
