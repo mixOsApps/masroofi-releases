@@ -1,7 +1,7 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.21.0",
-    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.21.0/masroofi-1.21.0.apk",
-    "releaseNotes":  "Savings: split one deposit across all your savings goals by percentage (the percentages are remembered, and a new goal appears in the list). The usual Chip In is unchanged.",
+    "versionCode":  9,
+    "versionName":  "1.22.0",
+    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.22.0/masroofi-1.22.0.apk",
+    "releaseNotes":  "Money on Hold: a purpose can have an amount that is split between its members (rounded up from 0.1), the hold shows paid, amount and balance with who overpaid or paid less, and Add Money on Hold fills in each member\u0027s share. The purposes list now shows name and amount, tap to see the members.",
     "forceUpdate":  false
 }
