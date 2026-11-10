@@ -1,7 +1,7 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.20.1",
-    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.20.1/masroofi-1.20.1.apk",
-    "releaseNotes":  "New app icon: a banknote with a V down to the coin and a bill and coins dropping in, plus a one-colour version for themed icons.",
+    "versionCode":  8,
+    "versionName":  "1.21.0",
+    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.21.0/masroofi-1.21.0.apk",
+    "releaseNotes":  "Savings: split one deposit across all your savings goals by percentage (the percentages are remembered, and a new goal appears in the list). The usual Chip In is unchanged.",
     "forceUpdate":  false
 }
