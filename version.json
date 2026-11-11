@@ -1,7 +1,7 @@
 {
-    "versionCode":  10,
-    "versionName":  "1.22.1",
-    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.22.1/masroofi-1.22.1.apk",
-    "releaseNotes":  "Savings split: goals that already reached their target are left out, and any excess over a goal\u0027s remaining room goes to the highest-percentage goals first.",
+    "versionCode":  11,
+    "versionName":  "1.23.0",
+    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.23.0/masroofi-1.23.0.apk",
+    "releaseNotes":  "Version 1.23.0.",
     "forceUpdate":  false
 }
