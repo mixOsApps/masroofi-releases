@@ -1,7 +1,7 @@
 {
-    "versionCode":  12,
-    "versionName":  "1.24.0",
-    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.24.0/masroofi-1.24.0.apk",
-    "releaseNotes":  "Paying an investment can add a payment fee (gateway/processing). It is saved as its own transaction linked to the payment; deleting either one deletes the other, and the investment summary follows.",
+    "versionCode":  13,
+    "versionName":  "1.25.0",
+    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.25.0/masroofi-1.25.0.apk",
+    "releaseNotes":  "Bank messages are read more reliably: one bank template can hold several message types, any number style and currency is understood, OTP and declined messages are skipped, duplicates are caught, and unread money messages go to a new Unrecognised list.",
     "forceUpdate":  false
 }
