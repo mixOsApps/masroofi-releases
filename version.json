@@ -1,7 +1,7 @@
 {
-    "versionCode":  13,
-    "versionName":  "1.25.0",
-    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.25.0/masroofi-1.25.0.apk",
-    "releaseNotes":  "Bank messages are read more reliably: one bank template can hold several message types, any number style and currency is understood, OTP and declined messages are skipped, duplicates are caught, and unread money messages go to a new Unrecognised list.",
+    "versionCode":  14,
+    "versionName":  "1.26.0",
+    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.26.0/masroofi-1.26.0.apk",
+    "releaseNotes":  "Savings goals can be edited: change the title, target, notes or the saved amount. Raising the saved amount takes the extra from the goal\u0027s wallet; lowering it returns the difference to the wallet.",
     "forceUpdate":  false
 }
