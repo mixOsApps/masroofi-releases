@@ -1,7 +1,7 @@
 {
-    "versionCode":  14,
-    "versionName":  "1.26.0",
-    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.26.0/masroofi-1.26.0.apk",
-    "releaseNotes":  "Savings goals can be edited: change the title, target, notes or the saved amount. Raising the saved amount takes the extra from the goal\u0027s wallet; lowering it returns the difference to the wallet.",
+    "versionCode":  15,
+    "versionName":  "1.27.0",
+    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.27.0/masroofi-1.27.0.apk",
+    "releaseNotes":  "Savings goals show the balance still to save, fully funded goals move to their own section, editing the saved amount updates this month\u0027s total, and Split a deposit leaves funded goals out and keeps any excess in your wallet.",
     "forceUpdate":  false
 }
