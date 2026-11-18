@@ -1,7 +1,7 @@
 {
-    "versionCode":  15,
-    "versionName":  "1.27.0",
-    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.27.0/masroofi-1.27.0.apk",
-    "releaseNotes":  "Savings goals show the balance still to save, fully funded goals move to their own section, editing the saved amount updates this month\u0027s total, and Split a deposit leaves funded goals out and keeps any excess in your wallet.",
+    "versionCode":  16,
+    "versionName":  "1.28.0",
+    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.28.0/masroofi-1.28.0.apk",
+    "releaseNotes":  "New Bills tab: add your bills with any repeat (monthly, every 2/3/6 months, yearly, twice a month, twice a week and more), get reminders before the due date, mark them paid or link the bank posting, split a bill with a Money on Hold purpose, and pay a bill straight from its bank SMS with the new Bill chip. Settings is now the gear in the header.",
     "forceUpdate":  false
 }
