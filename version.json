@@ -1,7 +1,7 @@
 {
-    "versionCode":  16,
-    "versionName":  "1.28.0",
-    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.28.0/masroofi-1.28.0.apk",
-    "releaseNotes":  "New Bills tab: add your bills with any repeat (monthly, every 2/3/6 months, yearly, twice a month, twice a week and more), get reminders before the due date, mark them paid or link the bank posting, split a bill with a Money on Hold purpose, and pay a bill straight from its bank SMS with the new Bill chip. Settings is now the gear in the header.",
+    "versionCode":  17,
+    "versionName":  "1.29.0",
+    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.29.0/masroofi-1.29.0.apk",
+    "releaseNotes":  "Switch currency from the header on any screen. Bills now take a billing date (or none for cash and person-to-person payments) and due rules like the 18th of the next month; new bills no longer show past months as overdue. Autopay records the payment on its due date and the bank SMS links to it, payments can include a fee, and a recorded payment can be edited.",
     "forceUpdate":  false
 }
