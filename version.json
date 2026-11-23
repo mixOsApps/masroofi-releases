@@ -1,7 +1,7 @@
 {
-    "versionCode":  17,
-    "versionName":  "1.29.0",
-    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.29.0/masroofi-1.29.0.apk",
-    "releaseNotes":  "Switch currency from the header on any screen. Bills now take a billing date (or none for cash and person-to-person payments) and due rules like the 18th of the next month; new bills no longer show past months as overdue. Autopay records the payment on its due date and the bank SMS links to it, payments can include a fee, and a recorded payment can be edited.",
+    "versionCode":  21,
+    "versionName":  "1.32.0",
+    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.32.0/masroofi-1.32.0.apk",
+    "releaseNotes":  "Duplicate a transaction: long-press it and tap Duplicate to add the same entry dated now. The Add dialog now picks the category or income source and the account when the description names them. ClientDatabase cash income can carry the costs it covered (taxi fares, a coffee), paid from any wallet or linked to a bank SMS, and one bank message can cover costs of several bookings.",
     "forceUpdate":  false
 }
