@@ -1,7 +1,7 @@
 {
-    "versionCode":  21,
-    "versionName":  "1.32.0",
-    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.32.0/masroofi-1.32.0.apk",
-    "releaseNotes":  "Duplicate a transaction: long-press it and tap Duplicate to add the same entry dated now. The Add dialog now picks the category or income source and the account when the description names them. ClientDatabase cash income can carry the costs it covered (taxi fares, a coffee), paid from any wallet or linked to a bank SMS, and one bank message can cover costs of several bookings.",
+    "versionCode":  22,
+    "versionName":  "1.33.0",
+    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.33.0/masroofi-1.33.0.apk",
+    "releaseNotes":  "Updates show their progress on screen (Background or Cancel), never download the same version twice, and only install when you tap Install.",
     "forceUpdate":  false
 }
