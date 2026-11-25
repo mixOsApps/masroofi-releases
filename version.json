@@ -1,7 +1,7 @@
 {
-    "versionCode":  23,
-    "versionName":  "1.34.0",
-    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.34.0/masroofi-1.34.0.apk",
-    "releaseNotes":  "Duplicate now works on transfers too: long-press a transfer between two accounts and tap Duplicate to repeat it dated now. Updates download with a progress dialog you can send to the background or cancel, resume where they stopped, and install only when you tap Install.",
+    "versionCode":  24,
+    "versionName":  "1.35.0",
+    "apkUrl":  "https://github.com/mixOsApps/masroofi-releases/releases/download/v1.35.0/masroofi-1.35.0.apk",
+    "releaseNotes":  "After you add a transaction, fund, bill or wallet, the list now jumps to it and highlights it, so you no longer have to scroll to find what you just added.",
     "forceUpdate":  false
 }
